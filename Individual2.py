@@ -28,7 +28,6 @@ if __name__ == '__main__':
             sum += item
         if i_min < i < i_max:
             proiz *= item
-            print(proiz)
     A = sorted(A)
 
     print("Отсортированный по возрастанию список ", A)
